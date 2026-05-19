@@ -17,7 +17,11 @@
     "multer": "^2.1.1",
     "react": "^19.2.6",
     "react-dom": "^19.2.6",
+<<<<<<< HEAD
     "uuid": "^14.0.0"
+=======
+    "react-router-dom": "^7.15.1"
+>>>>>>> refs/remotes/origin/main
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
